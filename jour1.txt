@@ -1,1 +1,2 @@
-J'ai appris les bases
+J'ai appris les bases git
+Git est puissant
